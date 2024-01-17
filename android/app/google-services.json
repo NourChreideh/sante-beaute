@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "79061188126",
+    "firebase_url": "https://mlay-cf502-default-rtdb.firebaseio.com",
+    "project_id": "mlay-cf502",
+    "storage_bucket": "mlay-cf502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79061188126:android:c19b8d361d301ac05eb80f",
+        "android_client_info": {
+          "package_name": "com.mlay.dmpteams"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79061188126-q6dqgs7v6f27picbgqgnhtr9ainhbfl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxNXdb3OojEaJ1a1InAUwX8-ZlPqv5SIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79061188126-nhsg7jqpgqte0m4c0ulmmt7prg8ah8t9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "79061188126-cqc1min3020tp5hc8la1691tt568m3f7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mlay.dmpteams"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
